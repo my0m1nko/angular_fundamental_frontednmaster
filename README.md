@@ -1,19 +1,10 @@
 # Angular Fundamentals Lessons
 
-## What to install
-
-- [Latest version of Node or Active LTS](https://nodejs.org/en/download/)
-- [Angular CLI](https://angular.dev/tools/cli/setup-local#install-the-angular-cli)
-- [Visual Studio Code](https://code.visualstudio.com/download)
-- [Angular Language Service Plugin for VS Code](https://marketplace.visualstudio.com/items?itemName=Angular.ng-template)
 
 ## How to run these lesson
 
 - Clone this repository to your local computer.
 
-```bash
-git clone git@github.com:marktechson/angular-fundamentals-lessons
-```
 
 - From the command line, in the root directory (angular-fundamentals-lessons) run the following command:
 
